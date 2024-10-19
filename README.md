@@ -6,3 +6,4 @@ https://zetcode.com/javagames/snake/
 ![Snake game screenshot](snake.png)
 
 snakeeeeeeeeee game edite kar raha first timeeeeeeeeeeeeee
+snakeeeeeeeeeeeee game edite kar raha second timeeeeeeeeeeeeeeeee
